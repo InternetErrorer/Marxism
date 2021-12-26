@@ -1,8 +1,8 @@
 # Table of contents
 
-* [杂七杂八的东西](README.md)
+* [青年大学习资料推荐](README.md)
 
-## 哲学 <a href="philosophic" id="philosophic"></a>
+## 哲学 <a href="#philosophic" id="philosophic"></a>
 
 * [唯物辩证法大纲](philosophic/outline\_of\_materialist\_dialectics/README.md)
   * [出版说明](philosophic/outline\_of\_materialist\_dialectics/publishers\_note.md)
@@ -33,7 +33,7 @@
   * [第三篇　世界是物质统一体的无限发展过程](philosophic/outline\_of\_materialist\_dialectics/article3.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/outline\_of\_materialist\_dialectics/article4.md)
 
-## 其他 <a href="other" id="other"></a>
+## 其他 <a href="#other" id="other"></a>
 
 * [文章](other/articles/README.md)
   * [未分类](other/articles/wei-fen-lei/README.md)
