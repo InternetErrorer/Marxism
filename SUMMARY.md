@@ -5,9 +5,9 @@
 ## 哲学 <a href="#philosophic" id="philosophic"></a>
 
 * [唯物辩证法大纲](philosophic/wwbzfdg/README.md)
-  * [出版说明](philosophic/wwbzfdg/publishers\_note.md)
+  * [出版说明](philosophic/wwbzfdg/chubanshuoming.md)
   * [目录](philosophic/wwbzfdg/contents.md)
-  * [引言](philosophic/wwbzfdg/introduction.md)
+  * [引言](philosophic/wwbzfdg/yinyan.md)
   * [第一篇　马克思主义哲学是无产阶级革命的精神武器](philosophic/wwbzfdg/article1/README.md)
     * [前言　马克思主义哲学是唯一科学和彻底革命的哲学](philosophic/wwbzfdg/article1/foreword.md)
     * [第一章　哲学的基本问题的第一方面](philosophic/wwbzfdg/article1/chapter1/README.md)
@@ -30,6 +30,9 @@
       * [第三节　中世纪哲学中积极的成分](philosophic/wwbzfdg/article2/chapter1/section3.md)
       * [第四节　西欧资产阶级革命时期资产阶级哲学中的积极成分](philosophic/wwbzfdg/article2/chapter1/section4.md)
       * [第五节　德国古典哲学中的辩证法和唯物论](philosophic/wwbzfdg/article2/chapter1/section5.md)
+    * [第二章　唯物辩证法的创立和发展](philosophic/wwbzfdg/article2/chapter2/README.md)
+      * [第一节　唯物辩证法创立的历史根据](philosophic/wwbzfdg/article2/chapter2/section1.md)
+      * [Page 1](philosophic/wwbzfdg/article2/chapter2/page-1.md)
   * [第三篇　世界是物质统一体的无限发展过程](philosophic/wwbzfdg/article3.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/wwbzfdg/article4.md)
 
