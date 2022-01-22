@@ -32,6 +32,8 @@
       * [第五节　德国古典哲学中的辩证法和唯物论](philosophic/wwbzfdg/article2/chapter1/section5.md)
     * [第二章　唯物辩证法的创立和发展](philosophic/wwbzfdg/article2/chapter2/README.md)
       * [第一节　唯物辩证法创立的历史根据](philosophic/wwbzfdg/article2/chapter2/section1.md)
+      * [第二节　唯物辩证法创立的过程](philosophic/wwbzfdg/article2/chapter2/section2.md)
+      * [第三节　唯物辩证法的发展](philosophic/wwbzfdg/article2/chapter2/section3.md)
       * [Page 1](philosophic/wwbzfdg/article2/chapter2/page-1.md)
   * [第三篇　世界是物质统一体的无限发展过程](philosophic/wwbzfdg/article3.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/wwbzfdg/article4.md)
