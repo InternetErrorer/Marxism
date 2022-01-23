@@ -1,6 +1,6 @@
 # Table of contents
 
-* [青年大学习资料推荐](README.md)
+* [学习新思想，争做新青年](README.md)
 
 ## 哲学 <a href="#philosophic" id="philosophic"></a>
 
@@ -38,7 +38,7 @@
     * [前言　唯物辩证法是彻底的物质一元论](philosophic/wwbzfdg/article3/foreword.md)
     * [第一章　物质、运动、空间与时间](philosophic/wwbzfdg/article3/chapter1/README.md)
       * [第一节　物质](philosophic/wwbzfdg/article3/chapter1/di-yi-jie-wu-zhi.md)
-    * [chapter2](philosophic/wwbzfdg/article3/chapter2.md)
+      * [chapter2](philosophic/wwbzfdg/article3/chapter1/chapter2.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/wwbzfdg/article4.md)
 
 ## 其他 <a href="#other" id="other"></a>
