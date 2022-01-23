@@ -34,8 +34,11 @@
       * [第一节　唯物辩证法创立的历史根据](philosophic/wwbzfdg/article2/chapter2/section1.md)
       * [第二节　唯物辩证法创立的过程](<philosophic/wwbzfdg/article2/chapter2/page-1 (1).md>)
       * [第三节　唯物辩证法的发展](philosophic/wwbzfdg/article2/chapter2/section3.md)
-      * [Page 1](philosophic/wwbzfdg/article2/chapter2/page-1.md)
-  * [第三篇　世界是物质统一体的无限发展过程](philosophic/wwbzfdg/article3.md)
+  * [第三篇　世界是物质统一体的无限发展过程](philosophic/wwbzfdg/article3/README.md)
+    * [前言　唯物辩证法是彻底的物质一元论](philosophic/wwbzfdg/article3/foreword.md)
+    * [第一章　物质、运动、空间与时间](philosophic/wwbzfdg/article3/chapter1/README.md)
+      * [第一节　物质](philosophic/wwbzfdg/article3/chapter1/di-yi-jie-wu-zhi.md)
+    * [chapter2](philosophic/wwbzfdg/article3/chapter2.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/wwbzfdg/article4.md)
 
 ## 其他 <a href="#other" id="other"></a>
