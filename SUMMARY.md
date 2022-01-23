@@ -38,24 +38,8 @@
     * [前言　唯物辩证法是彻底的物质一元论](philosophic/wwbzfdg/article3/foreword.md)
     * [第一章　物质、运动、空间与时间](philosophic/wwbzfdg/article3/chapter1/README.md)
       * [第一节　物质](philosophic/wwbzfdg/article3/chapter1/di-yi-jie-wu-zhi.md)
-      * [chapter2](philosophic/wwbzfdg/article3/chapter1/chapter2.md)
+      * [chapter2](philosophic/wwbzfdg/article3/chapter2.md)
   * [第四篇　唯物辩证法的规律和范畴](philosophic/wwbzfdg/article4.md)
-
-## 其他 <a href="#other" id="other"></a>
-
-* [文章](other/articles/README.md)
-  * [未分类](other/articles/wei-fen-lei/README.md)
-    * [评二次元浪漫主义（大纲）](other/articles/wei-fen-lei/ping-er-ci-yuan-lang-man-zhu-yi-da-gang.md)
-  * [十月烽火](other/articles/shi-yue-feng-huo/README.md)
-    * [肃清“商品拜物教”的恶劣影响](other/articles/shi-yue-feng-huo/su-qing-shang-pin-bai-wu-jiao-deelie-ying-xiang.md)
-    * [历史转折中的巴枯宁](other/articles/shi-yue-feng-huo/li-shi-zhuan-zhe-zhong-de-ba-ku-ning.md)
-    * [历史转折中的巴枯宁：对巴枯宁主义的理论批判](other/articles/shi-yue-feng-huo/li-shi-zhuan-zhe-zhong-de-ba-ku-ning-dui-ba-ku-ning-zhu-yi-de-li-lun-pi-pan.md)
-* [参考文章](other/reference\_articles/README.md)
-  * [美国中央情报局](other/reference\_articles/cia/README.md)
-    * [SNIE 13-61 中共经济形势](other/reference\_articles/cia/snie13-61/README.md)
-      * [特别国家情报评估13-61号　中共经济形势](other/reference\_articles/cia/snie13-61/chinese.md)
-      * [SNIE 13-61 THE ECONOMIC SITUATION IN COMMUNIST CHINA](other/reference\_articles/cia/snie13-61/snie-13-61-the-economic-situation-in-communist-china.md)
-    * [Untitled](other/reference\_articles/cia/untitled.md)
 
 ## 工具书 <a href="#gjs" id="gjs"></a>
 
@@ -79,3 +63,19 @@
     * [庸俗唯物主义](gjs/zxxcd\_bzwwzylswwzy/materialism\_and\_idealism/vulgar\_materialism.md)
     * [唯心主义](gjs/zxxcd\_bzwwzylswwzy/materialism\_and\_idealism/idealism.md)
     * [主观唯心主义](gjs/zxxcd\_bzwwzylswwzy/materialism\_and\_idealism/subjective\_idealism.md)
+
+## 其他 <a href="#other" id="other"></a>
+
+* [文章](other/articles/README.md)
+  * [未分类](other/articles/wei-fen-lei/README.md)
+    * [评二次元浪漫主义（大纲）](other/articles/wei-fen-lei/ping-er-ci-yuan-lang-man-zhu-yi-da-gang.md)
+  * [十月烽火](other/articles/shi-yue-feng-huo/README.md)
+    * [肃清“商品拜物教”的恶劣影响](other/articles/shi-yue-feng-huo/su-qing-shang-pin-bai-wu-jiao-deelie-ying-xiang.md)
+    * [历史转折中的巴枯宁](other/articles/shi-yue-feng-huo/li-shi-zhuan-zhe-zhong-de-ba-ku-ning.md)
+    * [历史转折中的巴枯宁：对巴枯宁主义的理论批判](other/articles/shi-yue-feng-huo/li-shi-zhuan-zhe-zhong-de-ba-ku-ning-dui-ba-ku-ning-zhu-yi-de-li-lun-pi-pan.md)
+* [参考文章](other/reference\_articles/README.md)
+  * [美国中央情报局](other/reference\_articles/cia/README.md)
+    * [SNIE 13-61 中共经济形势](other/reference\_articles/cia/snie13-61/README.md)
+      * [特别国家情报评估13-61号　中共经济形势](other/reference\_articles/cia/snie13-61/chinese.md)
+      * [SNIE 13-61 THE ECONOMIC SITUATION IN COMMUNIST CHINA](other/reference\_articles/cia/snie13-61/snie-13-61-the-economic-situation-in-communist-china.md)
+    * [Untitled](other/reference\_articles/cia/untitled.md)
